@@ -3,7 +3,7 @@
 export default function Hero(){
     return (
         <>
-            <div className="grid grid-cols-2 gap-2 m-10">
+            <div id="home" className="grid grid-cols-2 gap-2 m-10">
                 <div>
                     <div>
                     {/* className={"grid grid-rows-4 grid-flow-col gap-5"} */}
