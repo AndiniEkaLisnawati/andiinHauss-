@@ -17,7 +17,7 @@ export function NavigationBar() {
                 <Navbar.Toggle />
             </div>
             <Navbar.Collapse className="mr-32 indent-14">
-                <Navbar.Link href="#" active>
+                <Navbar.Link href="#home" active>
                     Home
                 </Navbar.Link>
                 <Navbar.Link href="#footer">See More</Navbar.Link>
