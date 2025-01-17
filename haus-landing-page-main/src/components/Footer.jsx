@@ -7,7 +7,7 @@ import hauss from "../assets/hauss.png"
 
 export function FooterBar() {
   return (
-    <Footer container>
+    <Footer container id="footer">
       <div className="w-full">
         <div className="grid w-full justify-between sm:flex sm:justify-between md:flex md:grid-cols-1">
           <div className="mx-20">
