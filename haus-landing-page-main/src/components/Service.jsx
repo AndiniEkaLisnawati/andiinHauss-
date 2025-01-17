@@ -5,7 +5,7 @@ import { Rating } from "flowbite-react";
 export default function Service() {
   return (
     <>
-    <div className="mb-24 mt-20">
+    <div id="service" className="mb-24 mt-20">
 
     <div className="text-center text-2xl ">
         <span className="font-bold text-yellow-400">BEST SELLER!</span>
